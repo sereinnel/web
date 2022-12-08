@@ -246,7 +246,7 @@ body {
 .contactsIcons {
     display: flex;
     flex-direction: row;
-    align-content: space-between;
+    justify-content: space-between;
     margin-top: 60px;
     margin-bottom: 20px;
     font-size:250%;
