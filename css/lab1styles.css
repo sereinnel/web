@@ -23,6 +23,7 @@ body {
     overflow: auto;
     border-bottom: 1px solid grey;
     display: flex;
+    flex-direction: row;
     justify-content: space-between;
 }
  
